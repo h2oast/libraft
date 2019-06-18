@@ -1,2 +1,2 @@
 # libraft
-The raft consensus protocol implementation as a ansi C library.
+The raft consensus protocol implementation as a ansi c library.
